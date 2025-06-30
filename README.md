@@ -25,24 +25,31 @@
 - Python packages:
   ```bash
   pip install pydub
-▶️ Running the App
-bash
-Copy
-Edit
+### ▶️ Running the App
+
+```bash
 python src/echosphere.py
-Select an input .mp3, .wav, or similar audio file.
+```
 
-Choose which enhancements you want applied.
+1. Select an input `.mp3`, `.wav`, or similar audio file.  
+2. Choose which enhancements you want applied.  
+3. Select where to save the final enhanced `.mp3` file.
 
-Select where to save the final enhanced .mp3 file.
+---
 
-📄 License
+## 📄 License
+
 Licensed under the MIT License.
 
-⚠️ Disclaimer
+---
+
+## ⚠️ Disclaimer
+
 Do not upload or redistribute copyrighted material unless you have the appropriate rights.
 
-🙌 Credits
-Built with FFmpeg
+---
 
-Audio processing powered by PyDub
+## 🙌 Credits
+
+- Built with [FFmpeg](https://ffmpeg.org/)
+- Audio processing powered by [PyDub](https://github.com/jiaaro/pydub)
