@@ -18,6 +18,8 @@
 
 ## 🚀 Getting Started
 
+---
+
 ### ✅ Requirements
 
 - Python 3.7+
