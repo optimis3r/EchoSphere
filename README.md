@@ -27,6 +27,9 @@
 - Python packages:
   ```bash
   pip install pydub
+
+---
+  
 ### ▶️ Running the App
 
 ```bash
